@@ -9,7 +9,7 @@ Web Developers Toolkit: https://www.youtube.com/channel/UCdLqxzh_bocMmfgAdssvngg
 
 * kubectl apply -f kube.deploy.yaml
 * kubectl apply -f kube.cipservice.yaml
-* kubecl get pods
+* kubectl get pods
 * kubectl exec -it "pod-name" -- sh
 * apk add --no-cache curl
 * curl http://backend-cip-service/api/resource
